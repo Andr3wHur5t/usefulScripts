@@ -10,7 +10,6 @@ read PHONE_NUMBER
 
 echo "Release Notes:"
 read RELEASE_NOTES
-#PHONE_NUMBER=4254208091
 #RELEASE_NOTES="First Dev Build."
 
 TESTFLIGHT_API=""
